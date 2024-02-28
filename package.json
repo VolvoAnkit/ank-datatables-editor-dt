@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "datatables.net-dt": "^1.13.0",
-    "@datatables.net/editor": "^2.2.2"
+    "@datatables.net/editor": "git://github.com/VolvoAnkit/editor.git"
   }
 }
